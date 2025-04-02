@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 # Script to find files interactively using fd (or find), ripgrep, and fzf.
 # Optionally opens the selected file in vim.
